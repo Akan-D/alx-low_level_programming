@@ -9,8 +9,8 @@ int main(void)
 {
 	int no;
 
-	for (no = 0; no >= 10, no++)
-		putchar((num % 10) + '0');
+	for (no = 0; no < 10; no++)
+		putchar((no % 10) + '0');
 	printf('\n');
 	return (0);
 }
