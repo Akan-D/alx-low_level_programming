@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - new0
- *
+ * reset_to_98 - new0
+ *@n: int to check
  * Return: 0
  */
 
