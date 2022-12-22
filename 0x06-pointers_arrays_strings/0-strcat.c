@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * char *_strncat - lastdays
+ *_strcat - lastdays
  *@dest:char
  *@src:char
  * Return: char
  */
 
-char *_strncat(char *dest, char *src)
+char *_strcat(char *dest, char *src)
 {
 	char *s = dest;
 
