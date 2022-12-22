@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+#include "0-strcat.c"
 
 /**
  *
