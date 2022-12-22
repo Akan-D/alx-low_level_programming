@@ -2,11 +2,11 @@
 
 /**
  * string_toupper - change low to up
- * @s:strin
+ * @n:strin
  * Return: char
  */
 
-char *string_toupper(char *s)
+char *string_toupper(char *n)
 {
 	int i;
 
