@@ -53,6 +53,6 @@ void print_buffer(char *b, int size)
 			print_line(b, size % 10 - 1, i);
 		}
 	putchar('\n');
-if (size == 0)
-	putchar('\n');
+	if (size == 0)
+		putchar('\n');
 }
