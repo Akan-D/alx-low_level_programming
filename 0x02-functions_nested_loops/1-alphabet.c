@@ -3,6 +3,7 @@
 /**
  * print_alphabet - abcdefghijklmnopqrstuvwxyz
  *
+ * Return: char
  */
 int print_alphabet(void)
 {
