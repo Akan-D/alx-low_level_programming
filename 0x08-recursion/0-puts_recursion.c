@@ -2,7 +2,7 @@
 
 /**
  * _puts_recursion
- *
+ *@s: string
  * Return: void
  */
 
